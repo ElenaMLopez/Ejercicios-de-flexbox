@@ -1,3 +1,3 @@
-# Ejercicios-de-flexbox
+# Flexbox Exercices
 
-Ejercicios para practicar los conocimientos de Flexbox adquiridos.
+Exercices to practce the flexbox knowledge saw at class.
